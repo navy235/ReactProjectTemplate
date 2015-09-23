@@ -1,1 +1,1 @@
-# ReactProjectTemplate
+# ReduxStudy
